@@ -1,0 +1,21 @@
+{
+	"extends": "next/core-web-vitals",
+	"rules": {
+		"indent": [
+			"error",
+			"tab"
+		],
+		"linebreak-style": [
+			"error",
+			"unix"
+		],
+		"unicode-bom": [
+			"error",
+			"never"
+		],
+		"quotes": [
+			"error",
+			"single"
+		]
+	}
+}
